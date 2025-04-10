@@ -1,0 +1,39 @@
+2025-04-10 18:20:25,685 - trade_analyzer - INFO - Logger initialized
+2025-04-10 18:20:32,455 - trade_analyzer.src.data.web_scraper - ERROR - Error fetching https://finance.yahoo.com/gainers: Network Error
+2025-04-10 18:20:32,455 - trade_analyzer.src.data.web_scraper - ERROR - Error fetching https://finance.yahoo.com/gainers: Network Error
+2025-04-10 18:20:35,304 - trade_analyzer.src.data.web_scraper - ERROR - Error fetching https://finance.yahoo.com/news/: Network Error
+2025-04-10 18:20:35,304 - trade_analyzer.src.data.web_scraper - ERROR - Error fetching https://finance.yahoo.com/news/: Network Error
+2025-04-10 18:20:42,096 - trade_analyzer.src.data.web_scraper - ERROR - Error fetching https://finance.yahoo.com/quote/AAPL: Network Error
+2025-04-10 18:20:42,096 - trade_analyzer.src.data.web_scraper - ERROR - Error fetching https://finance.yahoo.com/quote/AAPL: Network Error
+2025-04-10 18:20:46,269 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for AAPL: 'value'
+2025-04-10 18:20:46,269 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for AAPL: 'value'
+2025-04-10 18:20:50,811 - trade_analyzer.src.data.web_scraper - ERROR - Error fetching https://www.marketwatch.com/investing/stock/INVALID: 401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/investing/stock/INVALID
+2025-04-10 18:20:50,811 - trade_analyzer.src.data.web_scraper - ERROR - Error fetching https://www.marketwatch.com/investing/stock/INVALID: 401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/investing/stock/INVALID
+2025-04-10 18:20:52,763 - trade_analyzer.src.data.market_data - ERROR - Error analyzing stock INVALID: '>' not supported between instances of 'NoneType' and 'int'
+2025-04-10 18:20:52,763 - trade_analyzer.src.data.market_data - ERROR - Error analyzing stock INVALID: '>' not supported between instances of 'NoneType' and 'int'
+2025-04-10 18:21:04,088 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for SPY: 'value'
+2025-04-10 18:21:04,088 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for SPY: 'value'
+2025-04-10 18:21:07,294 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for QQQ: 'value'
+2025-04-10 18:21:07,294 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for QQQ: 'value'
+2025-04-10 18:21:10,292 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for DIA: 'value'
+2025-04-10 18:21:10,292 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for DIA: 'value'
+2025-04-10 18:21:13,535 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for AAPL: 'value'
+2025-04-10 18:21:13,535 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for AAPL: 'value'
+2025-04-10 18:21:25,967 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for SPY: 'value'
+2025-04-10 18:21:25,967 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for SPY: 'value'
+2025-04-10 18:21:29,001 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for QQQ: 'value'
+2025-04-10 18:21:29,001 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for QQQ: 'value'
+2025-04-10 18:21:31,114 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for DIA: 'value'
+2025-04-10 18:21:31,114 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for DIA: 'value'
+2025-04-10 18:21:34,224 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for AAPL: 'value'
+2025-04-10 18:21:34,224 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for AAPL: 'value'
+2025-04-10 18:21:40,027 - trade_analyzer.src.data.web_scraper - ERROR - Error fetching https://www.marketwatch.com/investing/stock/None: 401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/investing/stock/None
+2025-04-10 18:21:40,027 - trade_analyzer.src.data.web_scraper - ERROR - Error fetching https://www.marketwatch.com/investing/stock/None: 401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/investing/stock/None
+2025-04-10 18:21:42,996 - trade_analyzer.src.data.market_data - ERROR - Error analyzing stock None: '>' not supported between instances of 'NoneType' and 'int'
+2025-04-10 18:21:42,996 - trade_analyzer.src.data.market_data - ERROR - Error analyzing stock None: '>' not supported between instances of 'NoneType' and 'int'
+2025-04-10 18:21:54,231 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for SPY: 'value'
+2025-04-10 18:21:54,231 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for SPY: 'value'
+2025-04-10 18:21:56,865 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for QQQ: 'value'
+2025-04-10 18:21:56,865 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for QQQ: 'value'
+2025-04-10 18:22:00,133 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for DIA: 'value'
+2025-04-10 18:22:00,133 - trade_analyzer.src.data.web_scraper - ERROR - Error scraping Yahoo Finance for DIA: 'value'
