@@ -1,0 +1,95 @@
+2025-04-10 18:08:35,503 - trade_analyzer - INFO - Logger initialized
+2025-04-10 18:08:35,507 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,507 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,519 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,519 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,519 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching quote data for AAPL: Network Error
+2025-04-10 18:08:35,519 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching quote data for AAPL: Network Error
+2025-04-10 18:08:35,520 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,520 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,521 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching quote data for AAPL: Invalid JSON
+2025-04-10 18:08:35,521 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching quote data for AAPL: Invalid JSON
+2025-04-10 18:08:35,521 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,521 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,521 - trade_analyzer.src.data.alphavantage - ERROR - Invalid response for AAPL: {}
+2025-04-10 18:08:35,521 - trade_analyzer.src.data.alphavantage - ERROR - Invalid response for AAPL: {}
+2025-04-10 18:08:35,523 - trade_analyzer.src.data.alphavantage - INFO - API call: get_all_symbols
+2025-04-10 18:08:35,523 - trade_analyzer.src.data.alphavantage - INFO - API call: get_all_symbols
+2025-04-10 18:08:35,524 - trade_analyzer.src.data.alphavantage - INFO - API call: get_all_symbols
+2025-04-10 18:08:35,524 - trade_analyzer.src.data.alphavantage - INFO - API call: get_all_symbols
+2025-04-10 18:08:35,524 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching symbols: API Error
+2025-04-10 18:08:35,524 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching symbols: API Error
+2025-04-10 18:08:35,530 - trade_analyzer.src.data.alphavantage - INFO - API call: get_market_data
+2025-04-10 18:08:35,530 - trade_analyzer.src.data.alphavantage - INFO - API call: get_market_data
+2025-04-10 18:08:35,530 - trade_analyzer.src.data.alphavantage - INFO - API call: get_all_symbols
+2025-04-10 18:08:35,530 - trade_analyzer.src.data.alphavantage - INFO - API call: get_all_symbols
+2025-04-10 18:08:35,530 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,530 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,531 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,531 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,531 - trade_analyzer.src.data.alphavantage - INFO - API call: get_market_data
+2025-04-10 18:08:35,531 - trade_analyzer.src.data.alphavantage - INFO - API call: get_market_data
+2025-04-10 18:08:35,531 - trade_analyzer.src.data.alphavantage - INFO - API call: get_all_symbols
+2025-04-10 18:08:35,531 - trade_analyzer.src.data.alphavantage - INFO - API call: get_all_symbols
+2025-04-10 18:08:35,531 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching symbols: API Error
+2025-04-10 18:08:35,531 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching symbols: API Error
+2025-04-10 18:08:35,533 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,533 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,533 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,533 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,534 - trade_analyzer.src.data.alphavantage - ERROR - Invalid response for INVALID: {'Error Message': 'Invalid API call'}
+2025-04-10 18:08:35,534 - trade_analyzer.src.data.alphavantage - ERROR - Invalid response for INVALID: {'Error Message': 'Invalid API call'}
+2025-04-10 18:08:35,537 - trade_analyzer.src.data.alphavantage - INFO - API call: get_technical_indicators
+2025-04-10 18:08:35,537 - trade_analyzer.src.data.alphavantage - INFO - API call: get_technical_indicators
+2025-04-10 18:08:35,538 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching MACD for AAPL: {'Technical Analysis: RSI': {'2023-01-01': {'RSI': '55.0000'}}}
+2025-04-10 18:08:35,538 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching MACD for AAPL: {'Technical Analysis: RSI': {'2023-01-01': {'RSI': '55.0000'}}}
+2025-04-10 18:08:35,538 - trade_analyzer.src.data.alphavantage - INFO - API call: get_technical_indicators
+2025-04-10 18:08:35,538 - trade_analyzer.src.data.alphavantage - INFO - API call: get_technical_indicators
+2025-04-10 18:08:35,538 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching RSI for AAPL: API Error
+2025-04-10 18:08:35,538 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching RSI for AAPL: API Error
+2025-04-10 18:08:35,541 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching MACD for AAPL: API Error
+2025-04-10 18:08:35,541 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching MACD for AAPL: API Error
+2025-04-10 18:08:35,541 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching SMA for AAPL: API Error
+2025-04-10 18:08:35,541 - trade_analyzer.src.data.alphavantage - ERROR - Error fetching SMA for AAPL: API Error
+2025-04-10 18:08:35,543 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,543 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,545 - trade_analyzer.src.data.api_key_manager - WARNING - API key DEMO_KEY1 has reached its rate limit
+2025-04-10 18:08:35,545 - trade_analyzer.src.data.api_key_manager - WARNING - API key DEMO_KEY1 has reached its rate limit
+2025-04-10 18:08:35,545 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,545 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,545 - trade_analyzer.src.data.api_key_manager - WARNING - API key DEMO_KEY2 has reached its rate limit
+2025-04-10 18:08:35,545 - trade_analyzer.src.data.api_key_manager - WARNING - API key DEMO_KEY2 has reached its rate limit
+2025-04-10 18:08:35,546 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,546 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,546 - trade_analyzer.src.data.api_key_manager - WARNING - API key DEMO_KEY3 has reached its rate limit
+2025-04-10 18:08:35,546 - trade_analyzer.src.data.api_key_manager - WARNING - API key DEMO_KEY3 has reached its rate limit
+2025-04-10 18:08:35,546 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,546 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,546 - trade_analyzer.src.data.api_key_manager - WARNING - API key DEMO_KEY4 has reached its rate limit
+2025-04-10 18:08:35,546 - trade_analyzer.src.data.api_key_manager - WARNING - API key DEMO_KEY4 has reached its rate limit
+2025-04-10 18:08:35,546 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,546 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,547 - trade_analyzer.src.data.api_key_manager - WARNING - API key DEMO_KEY5 has reached its rate limit
+2025-04-10 18:08:35,547 - trade_analyzer.src.data.api_key_manager - WARNING - API key DEMO_KEY5 has reached its rate limit
+2025-04-10 18:08:35,547 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,547 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,547 - trade_analyzer.src.data.api_key_manager - WARNING - API key test_api_key has reached its rate limit
+2025-04-10 18:08:35,547 - trade_analyzer.src.data.api_key_manager - WARNING - API key test_api_key has reached its rate limit
+2025-04-10 18:08:35,547 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,547 - trade_analyzer.src.data.alphavantage - INFO - API call: get_quote_data
+2025-04-10 18:08:35,547 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:08:35,547 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:09:40,486 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:09:40,486 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:10:40,504 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:10:40,504 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:11:40,565 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:11:40,565 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:12:40,604 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:12:40,604 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:13:40,665 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:13:40,665 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:14:40,728 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:14:40,728 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:15:40,789 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
+2025-04-10 18:15:40,789 - trade_analyzer.src.data.api_key_manager - WARNING - No API keys available. Waiting for rate limit reset...
