@@ -1,0 +1,3 @@
+2025-04-10 18:34:44,011 - trade_analyzer - INFO - Logger initialized
+2025-04-10 18:34:44,011 - trade_analyzer.src.data.market_data - ERROR - Error getting stock data for AAPL: Network Error
+2025-04-10 18:34:44,011 - trade_analyzer.src.data.market_data - ERROR - Error getting stock data for AAPL: Network Error
